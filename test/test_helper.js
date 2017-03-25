@@ -7,4 +7,5 @@ const win = doc.defaultView();
 
 // Set the global document as doc
 global.document = doc;
+// Set gobal window to win
 global.window = win;
