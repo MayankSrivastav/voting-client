@@ -1,3 +1,5 @@
+// Config file for webpack
+
 module.exports = {
   entry: [
     './src/index.js'
